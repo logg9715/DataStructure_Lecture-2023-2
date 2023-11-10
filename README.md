@@ -3,7 +3,9 @@
      
 # ppt 다운로드
 1주차 - [자료구조 튜터링 01.pptx](https://github.com/logg9715/-2023-2/files/12891109/01.pptx)      
-2주차 - [자료구조 튜터링 02.pptx](https://github.com/logg9715/-2023-2/files/12891111/02.pptx)    
+2,3 주차 - [자료구조 튜터링 02.pptx](https://github.com/logg9715/-2023-2/files/12891111/02.pptx)    
+4주차 - [Git & GitHub 활용.pptx](https://github.com/logg9715/DataStructure_Lecture-2023-2/files/13314235/Git.GitHub.pptx)
+
 
 # 소스코드 다운로드
 - cpp라고 되어 있는 파일은 .cpp라는 파일 확장자를 써야 함
