@@ -5,6 +5,8 @@
 1주차 - [자료구조 튜터링 01.pptx](https://github.com/logg9715/-2023-2/files/12891109/01.pptx)      
 2,3 주차 - [자료구조 튜터링 02.pptx](https://github.com/logg9715/-2023-2/files/12891111/02.pptx)    
 4주차 - [Git & GitHub 활용.pptx](https://github.com/logg9715/DataStructure_Lecture-2023-2/files/13314235/Git.GitHub.pptx)
+5주차 - [자료구조 튜터링 03.pptx](https://github.com/logg9715/DataStructure_Lecture-2023-2/files/13373149/03.pptx)
+
 
 
 # 소스코드 다운로드
