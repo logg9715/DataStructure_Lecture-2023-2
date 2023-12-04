@@ -25,3 +25,5 @@
 <br>
 [큐_스택 활용](https://github.com/logg9715/DataStructure_Lecture-2023-2/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/ArrayQueue.cpp)
 <br>
+[큐_리스트 활용](https://github.com/logg9715/DataStructure_Lecture-2023-2/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/ListQueue.cpp)
+<br>
