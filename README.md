@@ -27,3 +27,5 @@
 <br>
 [큐_리스트 활용](https://github.com/logg9715/DataStructure_Lecture-2023-2/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/ListQueue.cpp)
 <br>
+[원형 큐](https://github.com/logg9715/DataStructure_Lecture-2023-2/blob/main/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C/queue2.c)
+<br>
